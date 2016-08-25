@@ -31,7 +31,7 @@
                     <snmp_community/>
                     <multiplier>0</multiplier>
                     <snmp_oid/>
-                    <key>perf_counter[\SQLServer:SQL Errors(DB Offline Errors)\Errors/s]</key>
+                    <key>perf_counter[\SQLServer:SQL Errors(DB Offline Errors)\Erros/s]</key>
                     <delay>30</delay>
                     <history>7</history>
                     <trends>365</trends>
