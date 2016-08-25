@@ -493,7 +493,7 @@
                     <snmp_community/>
                     <multiplier>0</multiplier>
                     <snmp_oid/>
-                    <key>perf_counter[\Process(sqlservr)\% tempo de processador]</key>
+                    <key>perf_counter[\Processo(sqlservr)\% tempo de processador]</key>
                     <delay>30</delay>
                     <history>7</history>
                     <trends>365</trends>
@@ -1466,7 +1466,7 @@
                     <type>0</type>
                     <item>
                         <host>4Linux - DB SQL Server Windows</host>
-                        <key>perf_counter[\Process(sqlservr)\% Processor Time]</key>
+                        <key>perf_counter[\Processo(sqlservr)\% tempo de processador]</key>
                     </item>
                 </graph_item>
             </graph_items>
