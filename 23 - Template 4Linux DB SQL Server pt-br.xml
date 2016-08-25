@@ -157,7 +157,7 @@
                     <snmp_community/>
                     <multiplier>0</multiplier>
                     <snmp_oid/>
-                    <key>perf_counter[\SQLServer:Locks(_Total)\Número de Deadlocks/sec]</key>
+                    <key>perf_counter[\SQLServer:Locks(_Total)\Número de Deadlocks/s]</key>
                     <delay>30</delay>
                     <history>7</history>
                     <trends>365</trends>
