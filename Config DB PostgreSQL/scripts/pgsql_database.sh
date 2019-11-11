@@ -47,6 +47,9 @@ case $OPTION in
 	deletes)
 		QUERY="SELECT tup_deleted from pg_stat_database WHERE datname = '$DBNAME'"
 		;;
+	temp)
+                QUERY="SELECT temp_bytes from pg_stat_database WHERE datname = '$DBNAME'"
+                ;;
 	size)
 		QUERY="SELECT pg_database_size('$DBNAME');"
 		;;
